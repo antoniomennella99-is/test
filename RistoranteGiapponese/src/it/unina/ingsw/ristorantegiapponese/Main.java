@@ -14,7 +14,7 @@ public class Main {
 		
 		ArrayList<Piatto> piattiInMenu = gestore_ord.getPiattiInMenu();
 		ArrayList<Bevanda> bevandeInMenu = gestore_ord.getBevandeInMenu();
-
+ 
 		
 		/*
 		 * Simula una ipotetica selezione di piatti dal menu
